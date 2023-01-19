@@ -174,7 +174,7 @@
     "@achingbrain/ip-address": "^8.1.0",
     "@libp2p/interface-connection": "^1.0.1",
     "@libp2p/interface-peer-store": "^1.0.0",
-    "@libp2p/interface-transport": "^1.0.0",
+    "@libp2p/interface-transport": "^2.1.1",
     "@libp2p/logger": "^2.0.0",
     "@multiformats/multiaddr": "^10.1.1",
     "abortable-iterator": "^4.0.2",
